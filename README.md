@@ -42,7 +42,7 @@ Place this image file (e.g., `glamour_shot3.jpg`) in the `img/` folder.
 
 **File 2: your bio**
 
-Create a file with the filename formatted as YYYY-MM-DD-yourname.md (e.g., 2016-07-20-mbjoseph.md) in the `_posts/` directory.
+Create a file with the filename formatted as YYYY-MM-DD-yourname.md (e.g., [2016-07-20-mbjoseph.md](https://raw.githubusercontent.com/mbjoseph/git-participants/gh-pages/_posts/2016-07-20-mbjoseph.markdown)) in the `_posts/` directory.
 The contents of the file should be as follows:
 
 ```
@@ -100,15 +100,24 @@ git push
 
 ## 9. Creating a pull request
 
-If you pushed your changes, then they will be reflected when you visit your fork on GitHub at https://github.com/yourusername/git-participants.
-To integrate your changes with the original repository ([https://github.com/mbjoseph/git-participants](https://github.com/mbjoseph/git-participants)), you'll need to open a pull request.
+If you pushed your changes, then they will be reflected when you visit your forked repository on GitHub at https://github.com/yourusername/git-participants.
+To integrate your changes with the original repository, you'll need to open a pull request.
 Pull requests are used when you want to merge two repositories (or branches within repositories) together into one.
 
 To open a pull request, click the "New pull request" button in your repository.
+This will take you to a "Comparing changes" page.
+Make sure that the base fork is set to mbjoseph/git-participants, and that the head fork is set to yourusername/git-participants.
+The base fork receives changes from the head fork.
+You should see a green button that says "Create pull request".
+Click that button and enter a title and description for your pull request.
+The pull request will show any differences between the base fork and the head fork, allowing easy comparisons.
 
-## Attributions
+Once you open the pull request, I (Max) will evaluate your changes, let you know if anything needs to be fixed, and then merge your changes once everything looks good!
+
+
+### Attributions
 Forked from [Jekyll_modern-blog](https://github.com/inded/Jekyll_modern-blog), which is based off of this [article from Codrops](http://tympanus.net/codrops/?p=24222).
 
-## License
+### License
 
 Released under the [GNU GPL license v3](https://www.gnu.org/licenses/gpl-3.0.html).
