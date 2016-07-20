@@ -28,13 +28,7 @@ layout: compress
 <body class="body">
 <div class="container">
     <header class="header">
-        <h1>Modern Blog<span>A Clean, Fresh Minimal Look.</span></h1>
-        <nav class="links">
-            <a href="#"><i class="fa fa-twitter-square fa-3x"></i></a>
-            <a href="#"><i class="fa fa-instagram fa-3x"></i></a>
-            <a href="#"><i class="fa fa-facebook-square fa-3x"></i></a>
-            <a href="#"><i class="fa fa-tumblr-square fa-3x"></i></a>
-        </nav>
+        <h1>{{ site.title }}<span>{{ site.description }}</span></h1>
     </header>
     <div class="content">
         <!-- trianglify pattern container -->
@@ -62,11 +56,6 @@ layout: compress
                             <p class="card__subtitle">{{ post.subtitle }}</p>
                         </div>
                         <div class="card__copy">
-                            <div class="meta">
-                                <img class="meta__avatar" src="{{ post.avatar }}"/>
-                                <span class="meta__author">{{ post.author }}</span>
-                                <span class="meta__date">{{ post.date | date: "%Y-%m-%d" }}</span>
-                            </div>
                             {{ post.content }}
                         </div>
                     </div>

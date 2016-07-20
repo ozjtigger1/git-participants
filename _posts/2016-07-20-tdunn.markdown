@@ -1,0 +1,8 @@
+---
+title:  "Tim Dunn"
+subtitle: "Visualization ninja"
+date:   2016-07-20
+image: "img/ninja.png"
+---
+
+Likes dark places and noise canceling headphones.

@@ -1,0 +1,8 @@
+---
+title:  "Max Joseph"
+subtitle: "Assistant sloth herder"
+date:   2016-07-20
+image: "img/sloth.jpg"
+---
+
+Likes the color green and mashed potatoes.
