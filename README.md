@@ -42,7 +42,7 @@ Place this image file (e.g., `glamour_shot3.jpg`) in the `img/` folder.
 
 **File 2: your bio**
 
-Create a file with the filename formatted as YYYY-MM-DD-yourname.md (e.g., [2016-07-20-mbjoseph.md](https://raw.githubusercontent.com/mbjoseph/git-participants/gh-pages/_posts/2016-07-20-mbjoseph.markdown)) in the `_posts/` directory.
+Create a file with the filename formatted as YYYY-MM-DD-yourname.md (e.g., [2016-07-20-mbjoseph.md](https://raw.githubusercontent.com/mbjoseph/git-participants/gh-pages/_posts/2016-07-20-mbjoseph.md)) in the `_posts/` directory.
 The contents of the file should be as follows:
 
 ```
