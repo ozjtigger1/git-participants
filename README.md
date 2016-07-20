@@ -12,7 +12,7 @@ Make sure that you have defined your user name, e-mail address, and default text
 
 ## 3. Sign up for a free account on [GitHub](https://github.com/)
 
-If you are a student you are eligble for the [Student Developer Pack](https://education.github.com/pack) which includes some nice functionality.
+If you are a student you are eligible for the [Student Developer Pack](https://education.github.com/pack) which includes some nice functionality.
 
 
 ## 4. Fork this repository
